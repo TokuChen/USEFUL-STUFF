@@ -57,21 +57,21 @@ USEFUL STUFF
 
 | File                               | Version        | Platform    | Type        |
 |------------------------------------|---------------|-------------|------------|
-| winrar-x64-701ru.exe               | 7.01 RU       | Windows x64 | Archiver   |
+| winrar-x64-701ru.exe               | IDK           | Windows x64 | Archiver   |
 | VSCodeUserSetup-x64-1.96.4         | 1.96.4        | Windows x64 | Editor     |
-| VoxalVoiceChanger.exe              | Latest        | Windows x64 | Audio      |
-| tsetup-x64-5.10.3.exe              | 5.10.3        | Windows x64 | Messenger  |
-| SteamSetup.exe                     | Latest        | Windows x64 | Games      |
-| SpotifySetup.exe                   | Latest        | Windows x64 | Music      |
-| python-3.13.1-amd64.exe            | 3.13.1        | Windows x64 | Dev        |
-| DiscordSetup.exe                   | Latest        | Windows x64 | Social     |
-| ChromeSetup.exe                    | Latest        | Windows x64 | Browser    |
-| AnyDesk.exe                        | Latest        | Windows x64 | Remote     |
-| EpicInstaller-19.1.5.msi           | 19.1.5        | Windows x64 | Games      |
-| labymod4-installer.jar             | 4.0           | Multi (Java)| Minecraft  |
-| LegacyLauncher_Installer_legacy.exe| Latest        | Windows x64 | Launcher   |
-| QDir.zip                           | Latest        | Windows x64 | Files      |
-| Privatezilla.zip                   | Latest        | Windows x64 | System     |
+| VoxalVoiceChanger.exe              | IDK           | Windows x64 | Audio      |
+| tsetup-x64-5.10.3.exe              | IDK           | Windows x64 | Messenger  |
+| SteamSetup.exe                     | IDK           | Windows x64 | Games      |
+| SpotifySetup.exe                   | IDK           | Windows x64 | Music      |
+| python-3.13.1-amd64.exe            | IDK           | Windows x64 | Dev        |
+| DiscordSetup.exe                   | IDK           | Windows x64 | Social     |
+| ChromeSetup.exe                    | IDK           | Windows x64 | Browser    |
+| AnyDesk.exe                        | IDK           | Windows x64 | Remote     |
+| EpicInstaller-19.1.5.msi           | IDK           | Windows x64 | Games      |
+| labymod4-installer.jar             | IDK           | Multi (Java)| Minecraft  |
+| LegacyLauncher_Installer_legacy.exe| IDK        | Windows x64 | Launcher   |
+| QDir.zip                           | IDK        | Windows x64 | Files      |
+| Privatezilla.zip                   | IDK        | Windows x64 | System     |
 | Display Driver Uninstaller         | 18.1.4.0      | Windows x64 | Drivers    |
 
 ---
